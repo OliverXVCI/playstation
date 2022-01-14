@@ -25,7 +25,7 @@ body{
   border-radius: 20px;
   background: rgb(131,58,180);
   background: rgb(2,0,36);
-  background: rgb(0,31,36);
+  background: blue;
   
   flex-direction: column;
   padding: 10px;
